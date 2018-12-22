@@ -32,3 +32,15 @@
 - [Audio worklet](https://developers.google.com/web/updates/2017/12/audio-worklet)
 - [Fetch cache mode](https://fetch.spec.whatwg.org/#concept-request-cache-mode)
 - [Class fields](https://developers.google.com/web/updates/2018/12/class-fields)
+
+# Mini-series of 4 episodes
+
+A lot of web platform features landed in Chrome in 2018, but which is the best?
+Over a mini-series of 4 episodes, Jake and Surma will whittle 32 features down to one.
+
+- [Best web features of 2018: Part 1/4](https://youtu.be/adgI8-W1VjE)
+- [Best web features of 2018: Part 2/4](https://youtu.be/URrbSSguYzw)
+- [Best web features of 2018: Part 3/4](https://youtu.be/kZ-a6SXTueU)
+- [Best web features of 2018: The Final!](https://youtu.be/PgESLlNCv94)
+
+
